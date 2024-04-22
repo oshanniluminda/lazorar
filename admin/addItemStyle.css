@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+    padding: 0;
+    box-sizing: border-box;	
+}
+
+body{
+	background-image:url(image/se8.jpg);
+	background-position:cover;
+}
+
+.addNew{
+	color:black;
+	font-weight:bold;
+	font-size:30px;
+	text-decoration:none;
+	letter-spacing:5px;
+}
+
+.btnadd{
+	
+	background-color:#0AC5DB;
+	border:none;
+	padding-right:70px;
+	padding-left:30px;
+	padding-top:10px;
+	padding-bottom:10px;
+	
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+	
+}
+
+.card-body{
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+	margin-top:25px;
+}
+
+table ,
+table th,
+table tr,
+table td{
+	border: 2px solid;
+}
+
+table tr th{
+	padding:15px;
+	font-size:25px;
+	
+}
+
+table tr td{
+	padding:15px;
+	font-size:25px;
+	text-align:center;
+}
+
+.table-responsive button{
+	margin:10px;
+	padding:10px;
+	text-decoration:none;
+	background-color:yellow;
+	border:2px solid;
+}
+
+.table-responsive button a{
+	
+	text-decoration:none;
+}
+
+

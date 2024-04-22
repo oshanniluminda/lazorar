@@ -1,0 +1,55 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+
+.add-pro-form{
+	border:2px solid;
+	width:30%;
+	text-align:center;
+	margin-bottom:15px;
+	background-color:#0BF5F9;
+	margin-left: 35%;
+	
+}
+
+h2{
+	font-size:25px;
+	margin:25px;
+	background-color:rgb(1, 80, 107);
+	padding-bottom:15px;
+	padding-top:15px;
+	text-align:center;
+	color: white;
+}
+
+
+
+.first-row,.third-row, .fourth-row, .fifth-row, .sixth-row, .button{
+	margin:30px;
+}
+
+.first-row input,.third-row input, .fourth-row input, .fifth-row input, .sixth-row input, .button{
+	margin-top:10px;
+	padding-bottom:8px;
+	padding-top:8px;
+}
+
+.first-row p,.third-row p, .fourth-row p, .fifth-row p, .sixth-row p, .button{
+	font-size:18px;
+}
+
+.button .btn{
+	padding-left:25px;
+	padding-right:25px;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-size:15px;
+}
+
+.btn:hover{
+	background-color:#01598D;
+	color:white;
+}

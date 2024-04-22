@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.container form{
+    border-top: 3px dashed rgba(7, 95, 153, 0.59);
+    border-bottom: 3px dashed rgba(0, 132, 255, 0.582);
+    border-right: 3px dashed rgba(0, 132, 255, 0.582);
+    border-left: 3px dashed rgba(0, 132, 255, 0.582);
+   
+    margin-right: 50px;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.container .cartImg img{
+    width: 450px;
+    margin: 50px;
+    
+}
+
+span{
+    margin-bottom: 20px;
+    color: black;
+    font-size: 1.2rem;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 7px;
+}
+
+.back_btn{
+    background-color: rgb(7, 126, 104);
+    color: white;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.submit_btn{
+    background-color: rgb(7, 126, 104);
+    color: white;
+    cursor: pointer;
+}
+
